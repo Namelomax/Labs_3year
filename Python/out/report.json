@@ -1,0 +1,55 @@
+{
+  "generated_at": "2025-10-02T03:14:16.281296Z",
+  "keys": {
+    "caesar": 23,
+    "vigenere": "AoWolb"
+  },
+  "stats": {
+    "original": {
+      "word_count": 120,
+      "longest": [
+        "test"
+      ],
+      "readability": 4.0
+    },
+    "caesar": {
+      "word_count": 120,
+      "longest": [
+        "qbpq"
+      ],
+      "readability": 4.0
+    },
+    "vigenere": {
+      "word_count": 120,
+      "longest": [
+        "efsh",
+        "psdu",
+        "tsoh"
+      ],
+      "readability": 4.0
+    }
+  },
+  "freq_analysis": {
+    "original": {
+      "t": 240,
+      "e": 120,
+      "s": 120
+    },
+    "caesar": {
+      "q": 240,
+      "b": 120,
+      "p": 120
+    },
+    "vigenere": {
+      "t": 40,
+      "s": 120,
+      "o": 40,
+      "h": 80,
+      "e": 40,
+      "f": 40,
+      "p": 40,
+      "d": 40,
+      "u": 40
+    }
+  }
+}
